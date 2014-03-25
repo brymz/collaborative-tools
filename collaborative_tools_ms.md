@@ -1,5 +1,5 @@
 #Introduction
-*Summary of key points
+* Summary of key points
 
 ##Vision:
 We will layout suggestions ("specific recommendations") for what works and does not in collaborative work flows. 
@@ -15,10 +15,11 @@ Here we provide recommendations for what modern tools have to offer towards coll
 Using modern communication tools improves effectiveness and trackability of science collaborations and communication.
 
 #1. Collaboration is a growing aspect of modern science
-*group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
-*important to be sure all participants know their role
-*student - mentor relationship (at minimum)
+* group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
+* important to be sure all participants know their role
+* student - mentor relationship (at minimum)
 * growing author lines
+
 #2. Lots of new tools for collaboration
      * software development
      * tools vary in effectiveness for group size, labor division, &  task (period of research timeline)
