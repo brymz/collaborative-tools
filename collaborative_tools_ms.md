@@ -28,12 +28,13 @@ Using modern communication tools improves effectiveness and trackability of scie
 #3. Benefit expectations
 * What tasks can the tools improve?
 * Key Strengths of open collaboration and communication: 
-** make available broadly, 
-          * track changes / revert,
-          * measure collaborative input for appropriate credit for ideas and work
-          * improves work efficiency
-          * reproduce-ability
-      * some of these tools might be useful for teaching 
+  * make available broadly, 
+  * track changes / revert,
+  * measure collaborative input for appropriate credit for ideas and work
+  * improves work efficiency
+  * reproduce-ability
+  * some of these tools might be useful for teaching
+ 
 #4. Helpful evaluation techniques
      * cost benefit breakdown 
           * tools can be identified in terms of amt of time to develop skill vs input effort 
