@@ -14,18 +14,18 @@ Here we provide recommendations for what modern tools have to offer towards coll
 ###Thesis Statement:
 Using modern communication tools improves effectiveness and trackability of science collaborations and communication.
 
-##1. Collaboration is a growing aspect of modern science
+##Collaboration is a growing aspect of modern science
 * group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
 * important to be sure all participants know their role
 * student - mentor relationship (at minimum)
 * growing author lines
 
-##2. Lots of new tools for collaboration
+##Modern tools for collaboration
 * software development
 * tools vary in effectiveness for group size, labor division, &  task (period of research timeline)
 * tools useful independent of proximity
  
-#3. Benefit expectations
+##Reasonable expectations
 * What tasks can the tools improve?
 * Key Strengths of open collaboration and communication: 
   * make available broadly, 
@@ -33,35 +33,37 @@ Using modern communication tools improves effectiveness and trackability of scie
   * measure collaborative input for appropriate credit for ideas and work
   * improves work efficiency
   * reproduce-ability
-  * some of these tools might be useful for teaching
+* some of these tools might be useful for teaching
  
-#4. Helpful evaluation techniques
-     * cost benefit breakdown 
-          * tools can be identified in terms of amt of time to develop skill vs input effort 
-          *(e.g., Dropbox/GoogleDrive vs. github)
-          *(.doc/track changes vs .txt/version control)
-     * is the tool intuitive for use and appropriateness?
-     * Questions for breakout box 
-#5. Research Timeline
-     1. Idea
-          * wiki
-          * brainstorming cloud (stella, prezi, "onezoom",  ether pad, CMAP tools)
-     2. Data Collection
-          * recap data paper
-          * emphasize metadata and code annotations
-          * tools: wiki for methods, smartphone apps, provenance management, , github for data 
-     3. Analysis (consider combining with Data Collection)
-          * emphasize metadata and code annotations
-          * tools: code annotation (python notebook, rstudio, WingIDE git gist), version control (git hub, subversion)
-          * comment for GUI users (wiki-like methods)
-     4. Communication
-          * papers
-          ***tools: mark down (conversion software), bibtex, Medeley, latex, version control
-               git - in review make comments and revisions into "issues"
-          * talks - figshare
-          * social media
-#6. Conclusions / Moving forward
-     * Can we identify a gap in collaboration tools for Mozilla Science Lab (SW Carpentry collab)?
+##Helpful evaluation techniques
+* cost benefit breakdown 
+  * tools can be identified in terms of amt of time to develop skill vs input effort 
+  *(e.g., Dropbox/GoogleDrive vs. github)
+  *(.doc/track changes vs .txt/version control)
+* is the tool intuitive for use and appropriateness?
+* Questions for breakout box
+ 
+##Research Timeline
+1. Idea
+   * wiki
+   * brainstorming cloud (stella, prezi, "onezoom",  ether pad, CMAP tools)
+2. Data Collection
+   * recap data paper
+   * emphasize metadata and code annotations
+   * tools: wiki for methods, smartphone apps, provenance management, , github for data 
+3. Analysis (consider combining with Data Collection)
+   * emphasize metadata and code annotations
+   * tools: code annotation (python notebook, rstudio, WingIDE git gist), version control (git hub, subversion)
+   * comment for GUI users (wiki-like methods)
+4. Communication
+   * papers
+   * tools: mark down (conversion software), bibtex, Medeley, latex, version control
+     * git - in review make comments and revisions into "issues"
+   * talks - figshare
+   * social media
+
+##Conclusions / Moving forward
+* Can we identify a gap in collaboration tools for Mozilla Science Lab (SW Carpentry collab)?
 
 References
 Ram, K. 2013. Git can facilitate greater reproducibility and increased transparency in science; http://www.biomedcentral.com/content/pdf/1751-0473-8-7.pdf ; http://informint.blogspot.com/2013/05/git-can-facilitate-greater.html
