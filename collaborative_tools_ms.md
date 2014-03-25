@@ -1,20 +1,24 @@
-Vision for this paper:
-We will layout suggestions ("specific recommendations") for what works and does not in collaborative work flows. Like the data sharing paper that Ethan led - this paper will give suggestions for some of the best collaborative tools currently available with a list of pros / cons for particular tasks and scales of collaboration. Zack and Kristina are planning on taking the lead; however, like the data paper we all envision broad participation from those that are interested in collaborative tools. 
+#Introduction
+*Summary of key points
 
-Problem Statement:
-As collaborative work becomes increasingly the norm in science it is increasingly important to develop simple and effective methods to organize, track, and disseminate information at all stages of the scientific process. However it is not clear from the array of tools available which are optimal for particular tasks and scales of collaboration (lab / working group / large network). Here we provide recommendations for what modern tools have to offer towards collaborative work and suggest how these tools also have important indirect positive benefits on the larger community by increasing transparency and fostering the generation of new research lines.
+##Vision:
+We will layout suggestions ("specific recommendations") for what works and does not in collaborative work flows. 
+Like the data sharing paper that Ethan led - this paper will give suggestions for some of the best collaborative tools currently available with a list of pros / cons for particular tasks and scales of collaboration. 
+Zack and Kristina are planning on taking the lead; however, like the data paper we all envision broad participation from those that are interested in collaborative tools. 
 
-Thesis Statement:
+##Problem Statement:
+As collaborative work becomes increasingly the norm in science it is increasingly important to develop simple and effective methods to organize, track, and disseminate information at all stages of the scientific process. 
+However it is not clear from the array of tools available which are optimal for particular tasks and scales of collaboration (lab / working group / large network). 
+Here we provide recommendations for what modern tools have to offer towards collaborative work and suggest how these tools also have important indirect positive benefits on the larger community by increasing transparency and fostering the generation of new research lines.
+
+##Thesis Statement:
 Using modern communication tools improves effectiveness and trackability of science collaborations and communication.
 
-Outline
-#Introduction
-     *Summary of key points
 #1. Collaboration is a growing aspect of modern science
-     * group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
-     * important to be sure all participants know their role
-     * student - mentor relationship (at minimum)
-     * growing author lines
+*group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
+*important to be sure all participants know their role
+*student - mentor relationship (at minimum)
+* growing author lines
 #2. Lots of new tools for collaboration
      * software development
      * tools vary in effectiveness for group size, labor division, &  task (period of research timeline)
