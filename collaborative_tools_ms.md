@@ -38,8 +38,8 @@ Using modern communication tools improves effectiveness and trackability of scie
 ##Helpful evaluation techniques
 * cost benefit breakdown 
   * tools can be identified in terms of amt of time to develop skill vs input effort 
-  *(e.g., Dropbox/GoogleDrive vs. github)
-  *(.doc/track changes vs .txt/version control)
+  * (e.g., Dropbox/GoogleDrive vs. github)
+  * (.doc/track changes vs .txt/version control)
 * is the tool intuitive for use and appropriateness?
 * Questions for breakout box
  
@@ -65,10 +65,11 @@ Using modern communication tools improves effectiveness and trackability of scie
 ##Conclusions / Moving forward
 * Can we identify a gap in collaboration tools for Mozilla Science Lab (SW Carpentry collab)?
 
-References
+##References
 Ram, K. 2013. Git can facilitate greater reproducibility and increased transparency in science; http://www.biomedcentral.com/content/pdf/1751-0473-8-7.pdf ; http://informint.blogspot.com/2013/05/git-can-facilitate-greater.html
 
-*Slides 13-17,22 include some specific tools that aid in collaboration; they also included time to learn how to use tools
+?Slides 13-17,22 include some specific tools that aid in collaboration; they also included time to learn how to use tools
+
 Oxberry, G. 2013. How to succeed in reproducible research without really trying; http://figshare.com/articles/How_to_succeed_in_reproducible_research_without_really_trying/640512 
 
 Github for writers: http://madebyloren.com/github-for-writers
