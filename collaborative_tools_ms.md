@@ -1,29 +1,20 @@
 ##Introduction
-* Summary of key points
+As collaborative work becomes increasingly the norm in science it is important to develop simple and effective methods to organize, track, and disseminate information at all stages of the scientific process. 
+Using modern communication tools improves record keeping and overall effectiveness of communication and workflow in science collaborations [@Ram2013].
+Collaborative tools benefit the larger research community by increasing communication, transparency, and synergism among complementary research programs. 
+With the growing array of collaborative tools available on-line, it is unclear which are most appropriate for particular tasks (e.g., brainstorming, analyzing, writing) and scales of collaboration (e.g., colleague, lab, working group, research network). 
+Here we describe ways in which modern collaborative tools can benefit your research program and provide a framework for evaluating and choosing an appropriate tool for collaborative work.  
+In addition, we recognize a number collaborative tools commonly used in ecology and evolutionary biology research programs.
 
-###Vision:
-We will layout suggestions ("specific recommendations") for what works and does not in collaborative work flows. 
-Like the data sharing paper that Ethan led - this paper will give suggestions for some of the best collaborative tools currently available with a list of pros / cons for particular tasks and scales of collaboration. 
-Zack and Kristina are planning on taking the lead; however, like the data paper we all envision broad participation from those that are interested in collaborative tools. 
-
-###Problem Statement:
-As collaborative work becomes increasingly the norm in science it is increasingly important to develop simple and effective methods to organize, track, and disseminate information at all stages of the scientific process. 
-However it is not clear from the array of tools available which are optimal for particular tasks and scales of collaboration (lab / working group / large network). 
-Here we provide recommendations for what modern tools have to offer towards collaborative work and suggest how these tools also have important indirect positive benefits on the larger community by increasing transparency and fostering the generation of new research lines.
-
-###Thesis Statement:
-Using modern communication tools improves effectiveness and trackability of science collaborations and communication.
-
-##Collaboration is a growing aspect of modern science
+Collaboration is a growing aspect of modern science as evident by growing author lines and increased funding to interdisciplinary work [cite].
+* student - mentor relationship (at minimum)
 * group consists of people with diversified skills sets and efforts (not all collaborators have to use all tools in group)
 * important to be sure all participants know their role
-* student - mentor relationship (at minimum)
-* growing author lines
 
-##Modern tools for collaboration
-* software development
+Collaborative tools can aid every step along the research timeline (i.e., idea, data collection, analysis, communication).
 * tools vary in effectiveness for group size, labor division, &  task (period of research timeline)
 * tools useful independent of proximity
+* software development
  
 ##Reasonable expectations
 * What tasks can the tools improve?
